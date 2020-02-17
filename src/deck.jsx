@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Card from "./card";
+import Card from "./Card";
 import { getCardId, getCardInfo } from "./helper/cardData";
 
 import "./styles/deck.css";
